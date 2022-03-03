@@ -1,0 +1,7 @@
+D:\UBB-Didactic\An 2\MPP\TravelAgencies-NET\TravelAgencies-NET\bin\Debug\TravelAgencies-NET.exe.config
+D:\UBB-Didactic\An 2\MPP\TravelAgencies-NET\TravelAgencies-NET\bin\Debug\TravelAgencies-NET.exe
+D:\UBB-Didactic\An 2\MPP\TravelAgencies-NET\TravelAgencies-NET\bin\Debug\TravelAgencies-NET.pdb
+D:\UBB-Didactic\An 2\MPP\TravelAgencies-NET\TravelAgencies-NET\obj\Debug\TravelAgencies-NET.csprojAssemblyReference.cache
+D:\UBB-Didactic\An 2\MPP\TravelAgencies-NET\TravelAgencies-NET\obj\Debug\TravelAgencies-NET.csproj.CoreCompileInputs.cache
+D:\UBB-Didactic\An 2\MPP\TravelAgencies-NET\TravelAgencies-NET\obj\Debug\TravelAgencies-NET.exe
+D:\UBB-Didactic\An 2\MPP\TravelAgencies-NET\TravelAgencies-NET\obj\Debug\TravelAgencies-NET.pdb
